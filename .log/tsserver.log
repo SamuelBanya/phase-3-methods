@@ -1,0 +1,21 @@
+Info 0    [18:43:13.516] Starting TS Server
+Info 1    [18:43:13.520] Version: 4.7.4
+Info 2    [18:43:13.520] Arguments: /Users/samuelbanya/.nvm/versions/node/v16.14.2/bin/node /Users/samuelbanya/.nvm/versions/node/v16.14.2/lib/node_modules/typescript/lib/tsserver.js --logFile /Users/samuelbanya/hub/Development/code/phase-3/phase-3-methods/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/g1/tzqw879134sg6jrks5nf5nhm0000gn/T/1389c42285d21fa513f3779623ce52ca/tscancellation*
+Info 3    [18:43:13.520] Platform: darwin NodeVersion: 16 CaseSensitive: false
+Info 4    [18:43:13.520] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [18:43:13.535] Format host information updated
+Info 6    [18:43:13.544] Search path: /Users/samuelbanya/hub/Development/code/phase-3/phase-3-methods/js
+Info 7    [18:43:13.545] For info: /Users/samuelbanya/hub/Development/code/phase-3/phase-3-methods/js/index.js :: No config files found.
+Info 8    [18:43:13.549] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [18:43:14.078] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 528.2777329981327ms
+Info 10   [18:43:14.078] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [18:43:14.078] 	Files (19)
+
+Info 12   [18:43:14.078] -----------------------------------------------
+Info 13   [18:43:14.093] AutoImportProviderProject: found 1 root files in 1 dependencies in 12.988752000033855 ms
+Info 14   [18:43:14.094] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [18:43:14.252] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 158.0907960012555ms
+Info 16   [18:43:14.252] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [18:43:14.252] 	Files (10)
+
+Info 18   [18:43:14.252] -----------------------------------------------
